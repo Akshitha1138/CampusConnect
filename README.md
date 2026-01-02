@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# CampusConnect
+>>>>>>> 6058352b2090e2d18741a8f10d252e7ef98f0257
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
